@@ -1,0 +1,7 @@
+F1 A: Timing
+STA ~2:15
+STO ~2:28
+LAP ~2:40
+F1 Repeat
+STA ~3:06
+F1 Repeat
