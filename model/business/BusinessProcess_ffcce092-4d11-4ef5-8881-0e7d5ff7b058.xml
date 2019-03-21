@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Задать ограничения"
+    id="ffcce092-4d11-4ef5-8881-0e7d5ff7b058"
+    documentation="Верхний предел числа участников.&#xA;Стоимость участия.&#xA;Верхний предел по году рождения.&#xA;Нижний предел по году рождения.&#xA;Ограничения по полу ?&#xA;Дата и время старта.&#xA;Место проведения."/>
